@@ -14,7 +14,7 @@ The purpose of writing this software was to practice and demonstrate several Kot
 
 Through this project, I learned how to structure a simple Kotlin application, separate logic into multiple files, and use collections and control flow effectively.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZipU4H5Jp6k)
 
 # Development Environment
 
